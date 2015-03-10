@@ -1,0 +1,10 @@
+Package: GPtseties
+Type: Package
+Title: Multiple time series modelling using Gaussian Process 
+Version: 1.0
+Date: 2015-03-10
+Author: Xiaoyu Lu
+Maintainer:  <xiaoyu.lu@new.ox.ac.uk>
+Description: Gaussian Process prior over times series for direct multiple step ahead prediction, implemented using a genetic algorithm. 
+Suggests: knitr
+VignetteBuilder: knitr
